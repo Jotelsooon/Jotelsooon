@@ -1,24 +1,24 @@
 # Hi there! I'm Javier Bossio 👋
 
 <p align="center">
-  **Full Stack Developer | .NET specialist** <br>
+  **Full Stack Developer | .NET Specialist** <br>
   Based in Córdoba, Argentina 🇦🇷
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javier-bossio-813356332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="javierbossio06@gmial.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:javierbossio06@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate Software Developer focused on the **.NET ecosystem**. Currently working on automation and fiscal systems, bridging the gap between complex business logic and efficient user experiences.
+I am an advanced Software Development student and a dedicated Developer focused on the **Microsoft .NET ecosystem**. I specialize in building functional, high-impact solutions for businesses, focusing on process automation and fiscal integrations.
 
-I specialize in:
-* Developing management systems like **TaskFlow** with .NET 10.
-* Implementing **WhatsApp Business API** for service automation (Barber shops).
-* Integrating **ARCA (AFIP) E-Invoicing** modules for local businesses.
+Key focus areas:
+* Developing management systems like **TaskFlow** using **.NET 10**.
+* Implementing **ARCA (AFIP) Electronic Invoicing** modules.
+* Building clean and efficient database architectures with **SQL Server**.
 
 ---
 
@@ -29,17 +29,18 @@ I specialize in:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Frontend & Integration**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
-* **[TaskFlow](TU_LINK_REPO)** - Full management system built with .NET 10.
-* **[ARCA Billing Module](TU_LINK_REPO)** - Electronic invoicing integration.
+### 🚀 Featured Projects & Contributions
+* **[TaskFlow](https://github.com/AAAActis/taskflow)** - *Core Contributor*. A robust management system built with .NET 10 and C#.
+* **[Facturador ARCA](https://github.com/AAAActis/FacturadorARCA)** - *Collaborator*. Implementation of electronic invoicing for local commerce.
