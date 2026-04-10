@@ -1,8 +1,8 @@
 # Hi there! I'm Javier Bossio 👋
 
 <p align="center">
-  **Systems Analysis Student (3rd Year) | Full Stack Developer | .NET Specialist** <br>
-  Based in Córdoba, Argentina 🇦🇷 | English Level: **B1 (Intermediate)**
+  Systems Analysis Student (3rd Year) | Full Stack Developer | .NET Specialist <br>
+  Based in Córdoba, Argentina 🇦🇷 | English Level: B1 (Intermediate)
 </p>
 
 <p align="center">
