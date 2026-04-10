@@ -1,8 +1,8 @@
 # Hi there! I'm Javier Bossio 👋
 
 <p align="center">
-  **Full Stack Developer | .NET Specialist** <br>
-  Based in Córdoba, Argentina 🇦🇷
+  **Systems Analysis Student (3rd Year) | Full Stack Developer | .NET Specialist** <br>
+  Based in Córdoba, Argentina 🇦🇷 | English Level: **B1 (Intermediate)**
 </p>
 
 <p align="center">
@@ -13,12 +13,13 @@
 ---
 
 ### 👨‍💻 About Me
-I am an advanced Software Development student and a dedicated Developer focused on the **Microsoft .NET ecosystem**. I specialize in building functional, high-impact solutions for businesses, focusing on process automation and fiscal integrations.
+I am a 3rd-year **Systems Analysis student** and a dedicated Developer focused on the **Microsoft .NET ecosystem**. I combine my academic background with practical experience in building functional, high-impact solutions for businesses.
 
 Key focus areas:
-* Developing management systems like **TaskFlow** using **.NET 10**.
-* Implementing **ARCA (AFIP) Electronic Invoicing** modules.
-* Building clean and efficient database architectures with **SQL Server**.
+* **Academic:** Currently in the final stages of my Systems Analysis degree, focusing on software architecture and project management.
+* **Development:** Building management systems like **TaskFlow** using **.NET 10**.
+* **Integrations:** Implementing **ARCA (AFIP) Electronic Invoicing** modules for local commerce.
+* **Languages:** Solid **B1 (Intermediate)** English level, capable of reading technical documentation and collaborating in bilingual environments.
 
 ---
 
